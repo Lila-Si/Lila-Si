@@ -1,6 +1,3 @@
-# Bonjour ✨
-
-### Mini-présentation :
 Essentiellement en apprentissage en ligne, je fais partie de ces gens étranges qui aiment passer leur journée devant des lignes de codes...
 
 **En ce moment** : J'attends simplement la piscine de 42 !  
